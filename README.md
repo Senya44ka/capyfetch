@@ -1,5 +1,5 @@
 # Сapyfetch
-Capyfetch is a simple fetch that displays system information with a capybara.
+Capyfetch is a simple fetch that displays system information with a capybara ASCII.
 
 # Installing
 ## Arch

@@ -4,9 +4,14 @@ Capyfetch is a simple fetch that displays system information with a capybara.
 # Installing
 ## Arch
 Capyfetch is available in AUR
+```bash
 'aur -S capyfetch'
+```
 or
-'paru -S capyfetch'
-
+```bash
+paru -S capyfetch
+```
 ## Other distros
-'git clone https://github.com/Senya44ka/capyfetch/ && cd capyfetch && makepkg -si'
+```bash
+git clone https://github.com/Senya44ka/capyfetch/ && cd capyfetch && makepkg -si
+```

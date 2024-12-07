@@ -11,8 +11,3 @@ or
 ```bash
 paru -S capyfetch
 ```
-## Other distros
-Request: base-devel, git
-```bash
-git clone https://github.com/Senya44ka/capyfetch/ && cd capyfetch && makepkg -si
-```
